@@ -1,4 +1,4 @@
-#ArduinoStacjaPogodowa – IoT-Based Weather Station
+##ArduinoStacjaPogodowa – IoT-Based Weather Station
 
 ArduinoStacjaPogodowa is a my thesis built on an Arduino board and an ESP32 microcontroller, which handles communication and data transmission. The system collects real-time environmental data from multiple sensors, providing comprehensive atmospheric analysis.
 Key Features:
