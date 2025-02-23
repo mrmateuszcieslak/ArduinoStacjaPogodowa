@@ -8,6 +8,7 @@ Key Features:
 ✅ Sensor Integration: Measures multiple weather and air quality parameters.
 
 ✅ IoT Communication: Utilizes ESP32 for efficient data transmission.
+
 Collected Data:
 
 📌 Air Temperature & Humidity
