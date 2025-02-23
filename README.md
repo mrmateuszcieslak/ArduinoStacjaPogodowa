@@ -20,6 +20,7 @@ Collected Data:
 📌 Air Quality Index (AQI)
 
 📌 Particulate Matter (PM 2.5 & PM 10)
+
 Technologies Used:
 
     Arduino for sensor data acquisition
